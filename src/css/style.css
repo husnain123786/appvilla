@@ -1,0 +1,259 @@
+.header {
+    background-color: #ff6b81;
+    height: 100vh;
+}
+body{
+     font-family: "Fira Sans", sans-serif;
+}
+.navbar-brand img {
+    width: 200px;
+
+}
+a{
+    text-decoration: none;
+}
+
+.nav-link {
+    color: white;
+
+    text-align: center;
+}
+
+.btn a {
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.btn a:hover {
+    background-color: white;
+    color: #ff6b81;
+}
+
+.app-store {
+    border: 1px solid white;
+    padding: 15px 30px;
+    color: #ff6b81;
+    font-weight: bold;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    width: 80px;
+    position: relative;
+    top: 40px;
+}
+
+.app-store:hover {
+    background-color: black;
+    color: white;
+
+}
+
+.app-store i {
+    margin-right: 5px;
+}
+
+.google-play {
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 15px 30px;
+    color: white;
+    border-radius: 8px;
+    font-weight: bold;
+    gap: 100px;
+    position: relative;
+    top: 40px;
+    left: 10px;
+}
+
+.google-play:hover {
+    background-color: #faf8f8;
+    color: #ff6b81;
+
+}
+
+.google-play i {
+    margin-right: 5px;
+}
+.hero{
+    background-color: #ff6b81;
+}
+
+div h1 {
+    margin-top: 10px;
+}
+
+div p {
+    margin-top: 30px;
+}
+
+.head {
+    color: #ff6b81;
+
+}
+
+.section {
+    background-color: #faf8f8;
+    padding: 130px;
+}
+#hero .hero-right img{
+    width: 100%;
+}
+
+.section h3 {
+    color: #ff6b81;
+
+}
+
+.back {
+
+    padding-left: 20px;
+    margin-bottom: 20px;
+    padding-top: 90px;
+    padding-left: 30px;
+    border-radius: 12px;
+    background-color: aliceblue;
+
+
+}
+
+.back:hover {
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.back .icon i {
+    border: 1px solid red;
+    padding: 20px;
+    position: relative;
+    bottom: 45px;
+    background-color: #ff6b81;
+    border-radius: 8px;
+
+
+}
+
+.ing p {
+    color: white;
+    position: relative;
+    bottom: 25px;
+    
+}
+
+.s1 {
+    color: white;
+}
+
+.text p {
+    font-size: 16px;
+    margin-top: 14px;
+
+}
+
+.text h2 {
+    margin-top: 4px;
+}
+
+.fo {
+    margin-top: 100px;
+    padding-bottom: 120px;
+    margin-bottom: 200px;
+    background-color: #ff6b81;
+    padding-top: 100px;
+}
+
+.test {
+    color: #ff6b81;
+    margin-bottom: 0px;
+}.btn2{
+    background-color: black;
+    color: white;
+}
+.section2{
+    padding-bottom: 100px;
+    background-color: white;
+}
+.s2{
+    color: #ff6b81;
+    
+}
+.pri{
+    margin-bottom: 110px;
+}
+.you  li i{
+    margin: 5px;
+
+}
+.hi{
+    height: 500px;
+}
+
+.ma{
+    padding-top: 50px;
+
+}
+.btn2{
+    margin: 0px 10px;
+    padding: 1px;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+.btn2:hover{
+    background-color: #ff6b81;
+}
+.section1 {
+    background-color: #ff6b81;
+    margin-top: 100px;
+
+    height: 300px;
+    padding-top: 30px;
+    padding-bottom: 100px;
+
+}
+.hi p{
+    padding-bottom: 20px;
+}
+.YES a{
+    border:  1PX solid red;
+    margin-bottom: 20PX;
+    text-decoration: none;
+    background-color: white;
+    color: #ff6b81;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: 600px;
+    margin-top: 50px;
+}
+
+.YES a:hover{
+    background-color: black;
+    color: white;
+
+}
+.footer li {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+.footer img{
+    width: 200px;
+}
+.footer h3{
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+}.footer p{
+    color: white;
+}.footer{
+    padding: 60px;
+    background-color: rgb(24, 24, 55);
+}
+.footer ul{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+

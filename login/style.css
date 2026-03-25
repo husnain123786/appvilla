@@ -1,0 +1,116 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    display: inline-block;
+}
+
+body {
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #ff6b81;
+}
+
+
+.body {
+    box-shadow: 1PX 1PX 1PX 1PX;
+    
+    height: 380px;
+    position: relative;
+    padding: 20px;
+    background-color: rgb(240, 166, 180);
+
+
+
+
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hea {
+
+    margin: 10px 25px;
+
+}
+
+.hea p {
+    font-size: 15px;
+    color: rgb(103, 102, 102);
+}
+
+.input-box input {
+
+    margin: 10px 0px 5px 20px;
+    padding: 20px;
+    width: 90%;
+    margin-bottom: 5px;
+    border-radius: 12PX;
+}
+
+.input-box {
+    margin-bottom: 5px;
+}
+
+.check {
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+}
+
+.lo {
+
+    text-align: center;
+    margin: 10px 38px;
+    margin-left: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-bottom: 10PX;
+    border-radius: 12PX;
+
+    font-weight: bold;
+    background-color: blue;
+
+}
+
+.lo a {
+    color: white;
+    text-decoration: none;
+}
+
+.para {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 3px;
+
+}
+
+.check a {
+    position: absolute;
+    right: 60px;
+    bottom: 110px;
+    text-decoration: none;
+    color: red;
+}
+
+.para a {
+    text-decoration: none;
+}
+
+.ICON {
+    text-align: center;
+    gap: 3PX;
+}
+
+.para {
+    margin-bottom: 10PX;
+}

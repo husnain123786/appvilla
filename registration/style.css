@@ -1,0 +1,43 @@
+input{
+    margin-bottom: 40px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-top: 8PX;
+    
+}
+.box{
+    border: 1px solid black;
+    text-align: justify;
+    background-color: #dac2c6;
+    border-radius: 18px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 20px;
+    
+    
+    
+
+}
+body{
+    background-image: url(../images/white-logo\ \(1\).png);
+    background-color: #ff6b81;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.send{
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    left: 90px;
+    background-color: black;
+    color: white;
+    margin-top: 40px;
+}
+.send:hover{ 
+    background-color: blue;
+    color: gold;
+}
+h1{
+    color: #690615;
+}
+
